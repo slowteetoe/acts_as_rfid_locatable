@@ -1,0 +1,3 @@
+= ActsAsRfidLocatable
+
+This project arises from that idea that RFID tags can be used to uniquely identify items and those items have a location.  It was originally used for locating media/assets on shelves.
